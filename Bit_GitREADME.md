@@ -1,5 +1,6 @@
 # Introduction
 This document walks through how to set up a Bitbucket account including:
+
 * Creating an Account
 * Adding ssh keys
 * Adding a repository
@@ -13,6 +14,7 @@ What is Bitbucket? Bitbucket is an enterprise solution to Github. It is code man
 ## <a name="head1234"></a>A Heading in this SO entry!
 ## Creating an Account
 It's highly reccomended to use your school email to create an account.
+
 * Go to: https://bitbucket.org/ 
     * If you already have an account, log in. If not, click `Get started` and follow the prompts.
     * You'll want to use your school email to get some additional perks with your account that you'd normally have to pay for.
@@ -52,7 +54,8 @@ __What are SSH Keys?__
 <i>Note:</i> Adding 2-factor authentication will make login via the console very difficult. While it's less secure, I'd reccomend not using 2-factor.
 
 __How to add a SSH Key__
-Start on the homepage of Bitbucket (the steps are the similar for Github as well). 
+Start on the homepage of Bitbucket (the steps are the similar for Github as well).
+
 1. Select your icon in the lower left-hand side of the screen.
 2. Select `Bitbucket Settings`
 3. From the center column, near the bottom is `SSH keys`
