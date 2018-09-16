@@ -155,7 +155,7 @@ Enter:
 Now you're all set and ready to get going! If you get an error in any step, recheck that you typed everything correctly. The most error you should get is if you copy and paste the key wrong.
 
 ---
-## <a name = "H3"></a>Cloning the Repository
+## <a name = "H4"></a>Cloning the Repository
 
 There are a couple of ways to clone a repository. I'll go over the easiest ways.
 
