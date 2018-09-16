@@ -4,10 +4,9 @@ This document walks through how to set up a Bitbucket account including:
 * [Adding SSH keys](#H2)
 * [Adding a repository](#H3)
 * [Cloning the repository](#H4)
-* Basic commands
-* Merge conflict handling
 
-What is Bitbucket? Bitbucket is an enterprise solution to Github. It is code management with extra features that businesses use.
+
+What is Bitbucket? Bitbucket is an enterprise solution to Github. It is code management with extra features that businesses can use.
 
 ---
 ## <a name = "H1"></a>Creating an Account
@@ -158,12 +157,22 @@ Now you're all set and ready to get going! If you get an error in any step, rech
 ---
 ## <a name = "H3"></a>Cloning the Repository
 
-There are a couple of ways to clone a repository. I'll go over the two easiest ways.
+There are a couple of ways to clone a repository. I'll go over the easiest ways.
 
 __What does it mean to 'clone' a repository?__
 
 Cloning just copies the documents you see in the Bitbucket/Github project to your computer. It doesn't change the work that's done, so you can clone as many times as you want!
 
 ### Version 1
+![Home Repo](homeRepo.png)
 
+1. Select __Clone__ from the base directory/folder of a repo. (Top right of screen)
+2. Navigate your terminal to the place you want to save it.
+    * For example, if I wanted to save the repo to a folder on my home screen, I would run:
+        ```
+        cd /mnt/c/Users/AmandaComputer/Desktop/ExampleFolder
+        ```
+        Then, after you hit enter, paste the command you copied earlier. This will now clone the repo into the folder.
 
+### Version 2
+TODO :)
