@@ -33,7 +33,7 @@ A repository is an area that you can store like projects. For example, the repo 
 
 6. You're done! Click __Create Repository__ button to finish!
 
-![Image of Practice Repo](Practice.png)
+![Image of Practice Repo](./Pictures/Practice.png)
 
 
 With the student option (that you get automatically by using your CMU email) you can have a large (?) number of repos. Repos are not language limited and can hold a variety of file types (even if Git/Bit can't open them via the website).
@@ -55,7 +55,7 @@ __What are SSH Keys?__
 __How to add a SSH Key__
 Start on the homepage of Bitbucket (the steps are the similar for Github as well).
 
-![Image of Settings Location](Screenshot (9)_LI.jpg)
+![Image of Settings Location](./Pictures/Focus.jpg)
 
 1. Select your icon in the lower left-hand side of the screen.
 2. Select __Bitbucket Settings__
@@ -164,7 +164,7 @@ __What does it mean to 'clone' a repository?__
 Cloning just copies the documents you see in the Bitbucket/Github project to your computer. It doesn't change the work that's done, so you can clone as many times as you want!
 
 ### Version 1
-![Home Repo](homeRepo.png)
+![Home Repo](./Pictures/homeRepo.png)
 
 1. Select __Clone__ from the base directory/folder of a repo. (Top right of screen)
 2. Navigate your terminal to the place you want to save it.
